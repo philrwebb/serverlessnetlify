@@ -1,0 +1,23 @@
+{
+  "name": "serverlessnetlify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/philrwebb/serverlessnetlify.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/philrwebb/serverlessnetlify/issues"
+  },
+  "homepage": "https://github.com/philrwebb/serverlessnetlify#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
